@@ -12,3 +12,5 @@ goto : <a href="http://127.0.0.1:8000/" target="_blank" >http://127.0.0.1:8000/<
 ### Create superuser
 #### `python manage.py createsuperuser`
 #### Add username and password
+goto : <a href="http://127.0.0.1:8000/admin" target="_blank" >http://127.0.0.1:8000/admin</a>
+And type same username and password
