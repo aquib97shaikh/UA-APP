@@ -139,7 +139,7 @@ ACCOUNT_USERNAME_REQUIRED = False
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 STATIC_URL = '../frontend/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles/')j
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles/')
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
