@@ -1,8 +1,8 @@
+asgiref==3.3.1
 certifi==2020.12.5
-dj-database-url==0.3.0
-dj-static==0.0.6
-gunicorn==19.6.0
-Unipath==1.0
+cffi==1.14.4
+chardet==4.0.0
+cryptography==3.3.1
 Django==3.1.5
 django-cors-headers==3.7.0
 django-rest-knox==4.1.0
@@ -12,5 +12,8 @@ pycparser==2.20
 PyJWT==2.0.1
 pytz==2020.5
 requests==2.25.1
+six==1.15.0
+soupsieve==2.1
 sqlparse==0.4.1
 urllib3==1.26.3
+whitenoise==5.2.0
