@@ -1,0 +1,12 @@
+body {
+    background-color: lightgreen;
+}
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.auth-container h1 {
+    font-size: 3em;
+}
